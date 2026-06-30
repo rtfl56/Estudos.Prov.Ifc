@@ -24,3 +24,5 @@ Seu objetivo final é conseguir ter uma media de pelo tirar 26 questões no simu
 #### Conclusão
 Boa sorte e acredite no progresso e não se fruste, sempre estude sempre que possivel.
 A prova é em setembro, administre bem o seu tempo
+
+Vocês que tem esse repositorio provavelmente tem meu contato, então eu estarei disponivel pra QUALQUER coisa, então qualquer duvida podem me chamar.
