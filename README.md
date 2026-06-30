@@ -15,9 +15,9 @@ com pausas e oque estudara durante a semana, recomendo de 1 a 2 horas de estudo 
 
 2.jogue as provas em alguma ia e faça simulados algumas vezes por semanas, de 30 questões baseadas na provas que você mandou, não tenha preguiça, lembre-se de anotar quantas questões acertou todos os dias
 
-3.Esqueça redes sociais ou distrações na hora de estudar, beba café fique confortavel, deixe namorado(a) ou seus amigos para depois
+3.Esqueça redes sociais ou distrações na hora de estudar, beba café fique confortavel, deixe namorada(o) ou seus amigos para depois
 
-bonus. Caso sinta falta de namorado(a) ou amigos, estude com ele ou eles, mas so compromentam em estudar e chame apenas se souber que a pessoa é capacitada pra estudarem juntos(melhor ainda se a pessoa ja fez a prova ou estuda no if)
+bonus. Caso sinta falta de namorada(o) ou amigos, estude com ele ou eles, mas so compromentam em estudar e chame apenas se souber que a pessoa é capacitada pra estudarem juntos(melhor ainda se a pessoa ja fez a prova ou estuda no if)
 
 ### Objetivo
 Seu objetivo final é conseguir ter uma media de pelo tirar 26 questões no simulados e conseguir fazer as provas passadas tranquilamente
@@ -26,3 +26,5 @@ Boa sorte e acredite no progresso e não se fruste, sempre estude sempre que pos
 A prova é em setembro, administre bem o seu tempo
 
 Vocês que tem esse repositorio provavelmente tem meu contato, então eu estarei disponivel pra QUALQUER coisa, então qualquer duvida podem me chamar.
+
+Eu vou colocar mais coisa em breve então volte aqui sempre que quiser:)
